@@ -4,7 +4,7 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.Vector;
 
-
+//Source = Mustafa Murat COŞKUN / UDEMY referans alınarak geliştirilmiştir..
 class BuyuktenKucugeString implements Comparator<String> {
 
     @Override
